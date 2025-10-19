@@ -1,4 +1,4 @@
-https://github.com/Minorkennedy1/HotelApp/blob/40cc59454be0183ccc2ea9660e3867d0072f2570/HotelappDiagram.png
+![Alt text]https://github.com/Minorkennedy1/HotelApp/blob/40cc59454be0183ccc2ea9660e3867d0072f2570/HotelappDiagram.png
 
 Simplified Hotel Management System
 
